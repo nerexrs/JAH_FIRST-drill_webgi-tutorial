@@ -1,3 +1,9 @@
+# JAH FIRST
+JAH BLESS THE SPACE, here is my project of a drill page with a 3d model: https://jah-first-drill-webgi-tutorial.vercel.app/
+3d model made by: Fernando Quinn
+
+
+JAH BLESS, this is the step by step to configure the project 
 # WebGi starter project
 A template for a vanilla(no ui-framework) project with webgi engine in typescript using parcel bundler.
 
